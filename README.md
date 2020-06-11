@@ -31,7 +31,7 @@
 
 # 前言
 
-6.10
+[6.10](https://github.com/Addict-Li/204-/blob/master/6.10)
 
 
 ---
