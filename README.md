@@ -32,11 +32,11 @@
 
 - 前言
 
-- 6.10-6.14 第一周记录
+- [6.10-6.14 第一周记录](https://github.com/Addict-Li/204-/blob/master/6.10-6.14%20%E7%AC%AC%E4%B8%80%E5%91%A8)
 
-- 6.15-6.21 第二周记录
+- [6.15-6.21 第二周记录](https://github.com/Addict-Li/204-/blob/master/6.15-6.21%20%E7%AC%AC%E4%BA%8C%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- 6.22-6.28 第三周记录
+- [6.22-6.28 第三周记录](https://github.com/Addict-Li/204-/blob/master/6.22-6.28%20%E7%AC%AC%E4%B8%89%E5%91%A8)
 
 
 
