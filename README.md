@@ -26,6 +26,9 @@
 
 **好，我可以开始了。**
 
+---
+**目前也在Gitbook更新：[《204天的自己》](https://app.gitbook.com/@260837031/s/204-ziji/)**
+
 
 # 目录
 ---
@@ -38,9 +41,11 @@
 
 - [6.22-6.28 第三周记录](https://github.com/Addict-Li/204-/blob/master/6.22-6.28%20%E7%AC%AC%E4%B8%89%E5%91%A8)
 
+- [6.29-7.5 第四周记录](https://github.com/Addict-Li/204-/blob/master/6.29-7.5%20%E7%AC%AC%E5%9B%9B%E5%91%A8%E8%AE%B0%E5%BD%95)
 
+- [7.6-7.12 第五周记录](https://github.com/Addict-Li/204-/blob/master/7.6-7.12%20%E7%AC%AC%E4%BA%94%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-
+- [7.13-7.19 第六周记录](
 
 ---
 
