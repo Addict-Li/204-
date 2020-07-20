@@ -45,7 +45,9 @@
 
 - [7.6-7.12 第五周记录](https://github.com/Addict-Li/204-/blob/master/7.6-7.12%20%E7%AC%AC%E4%BA%94%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [7.13-7.19 第六周记录](
+- [7.13-7.19 第六周记录](https://github.com/Addict-Li/204-/blob/master/7.13-7.19%20%E7%AC%AC%E5%85%AD%E5%91%A8%E8%AE%B0%E5%BD%95)
+
+- [7.20-7.26 第七周记录](https://github.com/Addict-Li/204-/blob/master/7.20-7.26%20%E7%AC%AC%E4%B8%83%E5%91%A8%E8%AE%B0%E5%BD%95)
 
 ---
 
