@@ -49,6 +49,8 @@
 
 - [7.20-7.26 第七周记录](https://github.com/Addict-Li/204-/blob/master/7.20-7.26%20%E7%AC%AC%E4%B8%83%E5%91%A8%E8%AE%B0%E5%BD%95)
 
+- [7.27-8.2 第八周记录](https://github.com/Addict-Li/204-/blob/master/7.27-8.2%20%E7%AC%AC%E5%85%AB%E5%91%A8%E8%AE%B0%E5%BD%95)
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
