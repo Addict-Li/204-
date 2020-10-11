@@ -71,7 +71,7 @@
 
 - [10.5-10.11 第十八周记录](https://github.com/Addict-Li/204-/blob/master/10.5-10.11%20%E7%AC%AC%E5%8D%81%E5%85%AB%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [10.12-10.18 第十九周记录](
+- [10.12-10.18 第十九周记录](https://github.com/Addict-Li/204-/blob/master/10.12-10.18%20%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%91%A8%E8%AE%B0%E5%BD%95)
 
 - [10.19-10.25 第二十周记录](
 
