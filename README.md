@@ -87,13 +87,13 @@
 
 - [11.30-12.6 第二十六周记录](https://github.com/Addict-Li/204-/blob/master/11.30-12.6%20%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [12.7-12.13 第二十七周记录](
+- [12.7-12.13 第二十七周记录](https://github.com/Addict-Li/204-/blob/master/12.7-12.13%20%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [12.14-12.20 第二十八周记录](
+- [12.14-12.20 第二十八周记录](https://github.com/Addict-Li/204-/blob/master/12.14-12.20%20%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [12.21-12.27 第二十九周记录](
+- [12.21-12.27 第二十九周记录](https://github.com/Addict-Li/204-/blob/master/12.21-12.27%20%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E5%91%A8%E8%AE%B0%E5%BD%95)
 
-- [12.28-1.3 第三十周记录](
+- [12.28-1.3 第三十周记录](https://github.com/Addict-Li/204-/blob/master/12.28-1.3%20%E7%AC%AC%E4%B8%89%E5%8D%81%E5%91%A8%E8%AE%B0%E5%BD%95)
 
 
 ---
